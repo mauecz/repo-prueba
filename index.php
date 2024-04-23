@@ -1,2 +1,2 @@
 <?php
-echo "Hola mundo modificado";
+echo "Hola mundo modificado 2";
